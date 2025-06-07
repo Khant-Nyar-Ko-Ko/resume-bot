@@ -1,97 +1,67 @@
-John Doe
-Software Engineer
-📍 123 Tech Street, San Francisco, CA 94107
-☎️ (123) 456-7890
-✉️ john.doe@email.com
-LinkedIn | GitHub
-Visa Status: Full working rights in the US without Visa sponsorship
+Khant Nyar Ko Ko
+Frontend Engineer
+📍 Chiang Rai, Thailand 57100
+☎️ (66) 997-820-067
+✉️ kokhantnyar19@gmail.com
+GitHub : Khant-Nyar-Ko-Ko | LinkedIn : Khant Nyar Ko Ko
 
 Professional Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in developing and delivering high-quality web and mobile applications. Adept at full-stack development, cloud computing, and DevOps practices, with a proven ability to lead cross-functional teams in Agile environments. Passionate about building scalable and efficient solutions that solve real-world problems and enhance user experiences. Recognized for excellent problem-solving skills and a commitment to continuous learning.
+I am a junior software engineer  in Thailand, currently a second-year software engineering student at Mae Fah Luang University. I have experience creating responsive websites with TypeScript and JavaScript using React.js and Next.js, and I manage both frontend and backend development mainly using Java Spring for the backend and MySQL for database management, including implementing CRUD operations.
 
 Technical Skills
 
-    Programming Languages: Python, JavaScript, TypeScript, Java, C++, SQL, Go
-
-    Frameworks & Libraries: React, Angular, Node.js, Express.js, Django, Flask, Spring Boot
-
-    DevOps & Cloud: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Terraform, CI/CD pipelines
-
-    Databases: MySQL, PostgreSQL, MongoDB, Redis
-
-    Tools & Platforms: Git, JIRA, Jenkins, VS Code, IntelliJ IDEA, Elasticsearch, Prometheus
+   Next.js, React.js
+TypeScript , JavaScript 
+HTML, CSS, Figma
+Tailwind CSS, SASS, Bootstrap
+Redux Query, Tanstack Query
+Java, Spring Boot, Node.js, 
+MySQL, Express.js, MongoDB
+Flutter
 
 Professional Experience
 
-Senior Software Engineer
-NextGen Tech Solutions — San Francisco, CA
-March 2022 – Present
-
-    Architected and developed scalable microservices, improving application performance by 40%.
-
-    Designed and implemented GraphQL APIs to enhance data query efficiency and flexibility.
-
-    Migrated on-premises applications to AWS, leveraging cloud-native solutions to reduce operational costs by 25%.
-
-    Led a team of five developers to successfully deliver a cross-platform mobile application for a high-profile client.
-
-    Conducted technical interviews and mentored junior engineers to foster team growth.
-
-Key Achievements:
-
-    Reduced system downtime by implementing proactive monitoring tools and incident response workflows.
-
-    Received the "Innovator of the Year" award for introducing a predictive analytics feature that boosted customer retention.
-
-Software Engineer
-Tech Innovations Inc. — San Francisco, CA
-March 2020 – February 2022
-
-    Developed and maintained full-stack applications, enhancing system performance by 30%.
-
-    Integrated third-party APIs, including payment gateways and geolocation services, to expand application capabilities.
-
-    Led the migration of legacy systems to microservices, reducing deployment time by 40%.
-
-    Collaborated with designers and product managers to deliver user-focused solutions.
-
-Key Achievements:
-
-    Spearheaded the creation of a real-time analytics dashboard, increasing user engagement by 25%.
-
-    Named "Employee of the Quarter" for exceptional contributions to critical project launches.
-
-Junior Software Developer
-Innovate Solutions — Palo Alto, CA
-July 2018 – February 2020
-
-    Assisted in developing responsive web applications using React and Node.js.
-
-    Conducted code reviews and implemented unit testing frameworks, reducing bugs by 20%.
-
-    Optimized database queries and contributed to schema design for improved performance.
-
-Key Achievements:
-
-    Reduced system downtime by 15% through proactive monitoring and efficient issue resolution.
+Junior Front-end Developer (Internship)
+April 2024 to August 2028 (4 months)
+YEC Company
+Develop and optimize user interface components of
+Dream Book E-Book Platform using React to enhance the
+user experience.
+Collaborate with back-end developers and designers to
+implement responsive and scalable web applications.
+Entry Front-end Developer (Workshop)
+May 2022 to July 2022 (3 months)
+MMS One Stop IT Solutions
+Collaborated with a team of front-end developers to
+design and implement user-friendly interfaces for a Hotel
+Management System, Admin Dashboard, and Google
+Contact clone.
+Developed and optimized React components to improve
+performance, responsiveness, and overall user
+experience.
 
 Education
-Bachelor of Science in Computer Science
-University of California, Berkeley — Graduated: May 2018
-
-    Relevant Coursework: Data Structures & Algorithms, Software Engineering, Cloud Computing, Artificial Intelligence
-
-    GPA: 3.8
+Bachelor of Software Engineering
+Mae Fah Luang University (2023 - Present)
+Full-Stack Java Development
+Java Developer Class (2024 - Present)
+React JS Front-End Development
+MMS One Stop IT Solution (2022 - 2023)
+Bachelor of Electronics and Communication
+Engineering
+Technological University Dawei (2018 - 2020)
 
 Certifications
 
-    AWS Certified Solutions Architect – Associate
-
-    Certified Kubernetes Administrator (CKA)
-
-    React.js Developer Certification
-
-    Advanced Java Programming Certification
+   First Prize & UI/UX Design Prize at SE Hackathon
+2024 (MFU)
+Certificate in Rapid Prototype Development(RPD)
+Challenge 2023 Hackathon Event
+Certificate in Agoda Code Camp 2024
+Certificate in Special Web Design
+Certificate in CS50T Understanding Technology
+Certificate in Apsara Clouder - AI
+Certificate in Introduction to Cybersecurity
 
 Projects
 
@@ -109,13 +79,9 @@ Projects
 
 Languages
 
-    English: Native
-
-    Spanish: Proficient
-
-    French: Intermediate
-
-    Mandarin: Beginner
+    Native Burmese
+Upper-Intermediate English
+Japanese JLPT N-4 Certified
 
 Hobbies & Interests
 
@@ -129,14 +95,6 @@ Hobbies & Interests
 
     Playing chess and participating in local tournaments
 
-Awards & Recognitions
-
-    Innovator of the Year – NextGen Tech Solutions (2023)
-
-    Employee of the Quarter – Tech Innovations Inc. (2021)
-
-    Winner – Bay Area Hackathon (2019): Created a predictive analytics tool for the healthcare industry.
-
-    Dean’s Honor List – University of California, Berkeley (2017 & 2018)
-
-
+Reference : Hlaine Htet
+Senior Front-End Developer @ YEC Company
+hlainehtet.dev@gmail.com
